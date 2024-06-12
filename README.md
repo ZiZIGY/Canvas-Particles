@@ -1,3 +1,3 @@
 git clone https://github.com/ZiZIGY/Canvas-Particles.git
 
-open HTML file
+open with live server
